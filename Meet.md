@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Joao Gabriel Gomes(John)
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Android Development with Kotlin
+-  Here I will try to document and update all my learnings
+-  Welcome to my github :) 
+
 
 <!---
 Joa1G/Joa1G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
